@@ -26,6 +26,14 @@
     --color-accent: var(--color-neutral-800);
     --color-accent-content: var(--color-neutral-800);
     --color-accent-foreground: var(--color-white);
+
+    /* Graphicode India Brand Colors (Derived from Official Logo) */
+    --color-gc-blue: #1E4DB7;
+    --color-gc-blue-dark: #15388A;
+    --color-gc-blue-light: #2E63E7;
+    --color-gc-orange: #F26522;
+    --color-gc-orange-dark: #D84E0F;
+    --color-gc-orange-light: #FF7D42;
 }
 
 @layer theme {
@@ -64,3 +72,68 @@ select:focus[data-flux-control] {
 /* \[:where(&)\]:size-4 {
     @apply size-4;
 } */
+
+@keyframes float-slow {
+    0%, 100% {
+        transform: translateY(0px);
+    }
+    50% {
+        transform: translateY(-10px);
+    }
+}
+
+@keyframes float-reverse {
+    0%, 100% {
+        transform: translateY(0px);
+    }
+    50% {
+        transform: translateY(8px);
+    }
+}
+
+@keyframes pulse-glow {
+    0%, 100% {
+        opacity: 0.4;
+        transform: scale(1);
+    }
+    50% {
+        opacity: 0.8;
+        transform: scale(1.05);
+    }
+}
+
+@keyframes spin-slow {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.animate-float {
+    animation: float-slow 5s ease-in-out infinite;
+}
+
+.animate-float-reverse {
+    animation: float-reverse 6s ease-in-out infinite;
+}
+
+.animate-pulse-glow {
+    animation: pulse-glow 4s ease-in-out infinite;
+}
+
+.animate-spin-slow {
+    animation: spin-slow 24s linear infinite;
+}
+
+.bg-dot-pattern {
+    background-image: radial-gradient(rgba(30, 77, 183, 0.12) 1.2px, transparent 1.2px);
+    background-size: 24px 24px;
+}
+
+.bg-grid-pattern {
+    background-size: 40px 40px;
+    background-image: linear-gradient(to right, rgba(30, 77, 183, 0.05) 1px, transparent 1px),
+                      linear-gradient(to bottom, rgba(30, 77, 183, 0.05) 1px, transparent 1px);
+}
