@@ -1,5 +1,5 @@
 <!-- Top Announcement Bar -->
-<div class="bg-gradient-to-r from-gc-blue-dark via-gc-blue to-gc-blue-dark text-white text-xs sm:text-sm py-2 px-4 relative z-50">
+<div class="bg-gc-blue-dark text-white text-xs sm:text-sm py-2 px-4 relative z-50">
     <div class="max-w-7xl mx-auto flex items-center justify-between">
         <div class="flex items-center gap-2 overflow-hidden whitespace-nowrap">
             <span class="inline-flex items-center gap-1.5 px-2 py-0.5 rounded-full text-[11px] font-semibold bg-gc-orange text-white uppercase tracking-wider animate-pulse">
@@ -92,7 +92,7 @@
 
                 <a 
                     href="#contact" 
-                    class="relative group inline-flex items-center gap-2 px-6 py-2.5 text-sm font-bold text-white bg-gradient-to-r from-gc-orange to-gc-orange-dark hover:from-gc-orange-light hover:to-gc-orange rounded-full shadow-md shadow-gc-orange/25 hover:shadow-lg hover:shadow-gc-orange/35 hover:-translate-y-0.5 active:translate-y-0 transition-all duration-200"
+                    class="relative group inline-flex items-center gap-2 px-6 py-2.5 text-sm font-bold text-white bg-gc-orange hover:bg-gc-orange-dark rounded-xl shadow-md transition-colors"
                 >
                     <span>Get a Proposal</span>
                     <svg class="w-4 h-4 transition-transform group-hover:translate-x-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -142,7 +142,7 @@
             <div class="pt-4 flex flex-col gap-3">
                 <a 
                     href="#contact" 
-                    class="mobile-nav-link w-full text-center py-3 text-sm font-bold text-white bg-gradient-to-r from-gc-orange to-gc-orange-dark rounded-xl shadow-md"
+                    class="mobile-nav-link w-full text-center py-3 text-sm font-bold text-white bg-gc-orange hover:bg-gc-orange-dark rounded-xl shadow-md transition-colors"
                 >
                     Get Free Project Consultation
                 </a>
