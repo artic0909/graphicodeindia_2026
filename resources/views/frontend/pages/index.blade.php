@@ -47,27 +47,27 @@
                 <!-- Value Highlights Checkmarks -->
                 <div class="grid grid-cols-2 sm:grid-cols-3 gap-3 pt-2 text-xs sm:text-sm font-semibold text-slate-700 max-w-xl mx-auto lg:mx-0">
                     <div class="flex items-center gap-2">
-                        <div class="w-5 h-5 rounded-full bg-emerald-100 text-emerald-600 flex items-center justify-center shrink-0">✓</div>
+                        <div class="w-5 h-5 rounded-full bg-emerald-100 text-emerald-600 flex items-center justify-center shrink-0"><svg class="w-3 h-3" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M5 13l4 4L19 7"/></svg></div>
                         <span>iOS &amp; Android Apps</span>
                     </div>
                     <div class="flex items-center gap-2">
-                        <div class="w-5 h-5 rounded-full bg-blue-100 text-gc-blue flex items-center justify-center shrink-0">✓</div>
+                        <div class="w-5 h-5 rounded-full bg-blue-100 text-gc-blue flex items-center justify-center shrink-0"><svg class="w-3 h-3" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M5 13l4 4L19 7"/></svg></div>
                         <span>Custom SaaS &amp; CRM</span>
                     </div>
                     <div class="flex items-center gap-2">
-                        <div class="w-5 h-5 rounded-full bg-orange-100 text-gc-orange flex items-center justify-center shrink-0">✓</div>
+                        <div class="w-5 h-5 rounded-full bg-orange-100 text-gc-orange flex items-center justify-center shrink-0"><svg class="w-3 h-3" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M5 13l4 4L19 7"/></svg></div>
                         <span>Graphic &amp; UI/UX Design</span>
                     </div>
                     <div class="flex items-center gap-2">
-                        <div class="w-5 h-5 rounded-full bg-amber-100 text-amber-700 flex items-center justify-center shrink-0">✓</div>
+                        <div class="w-5 h-5 rounded-full bg-amber-100 text-amber-700 flex items-center justify-center shrink-0"><svg class="w-3 h-3" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M5 13l4 4L19 7"/></svg></div>
                         <span>Software Marketing</span>
                     </div>
                     <div class="flex items-center gap-2">
-                        <div class="w-5 h-5 rounded-full bg-indigo-100 text-indigo-600 flex items-center justify-center shrink-0">✓</div>
+                        <div class="w-5 h-5 rounded-full bg-indigo-100 text-indigo-600 flex items-center justify-center shrink-0"><svg class="w-3 h-3" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M5 13l4 4L19 7"/></svg></div>
                         <span>Technical SEO</span>
                     </div>
                     <div class="flex items-center gap-2">
-                        <div class="w-5 h-5 rounded-full bg-purple-100 text-purple-600 flex items-center justify-center shrink-0">✓</div>
+                        <div class="w-5 h-5 rounded-full bg-purple-100 text-purple-600 flex items-center justify-center shrink-0"><svg class="w-3 h-3" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M5 13l4 4L19 7"/></svg></div>
                         <span>100% Code Ownership</span>
                     </div>
                 </div>
@@ -107,7 +107,13 @@
                     <div class="h-8 w-px bg-slate-200"></div>
                     <div>
                         <div class="flex items-center gap-1 text-amber-500 text-sm font-bold">
-                            <span>★★★★★</span>
+                            <span class="inline-flex items-center text-amber-400 gap-0.5">
+                                <svg class="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
+                                <svg class="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
+                                <svg class="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
+                                <svg class="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
+                                <svg class="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
+                            </span>
                             <span class="text-slate-900 font-black text-base ml-1">4.9/5</span>
                         </div>
                         <p class="text-xs font-medium text-slate-500">Global Ratings</p>
@@ -137,7 +143,7 @@
                                 </div>
                             </div>
                             <span class="text-[11px] font-bold px-2.5 py-1 rounded-md bg-gc-orange/10 text-gc-orange border border-gc-orange/20">
-                                ⚡ v2026.4
+                                <svg class="w-3 h-3 text-gc-orange inline mr-1" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M11.3 1.046A1 1 0 0112 2v5h4a1 1 0 01.82 1.573l-7 10A1 1 0 018 18v-5H4a1 1 0 01-.82-1.573l7-10a1 1 0 011.12-.381z" clip-rule="evenodd"/></svg>v2026.4
                             </span>
                         </div>
 
@@ -147,7 +153,7 @@
                             <div class="bg-slate-900 text-slate-200 p-4 rounded-xl text-xs font-mono shadow-inner border border-slate-800 space-y-1">
                                 <div class="flex items-center justify-between text-slate-400 pb-2 mb-2 border-b border-slate-800 text-[10px]">
                                     <span>graphicode_core.ts</span>
-                                    <span class="text-emerald-400 font-semibold">● Compiled 0 err</span>
+                                    <span class="text-emerald-400 font-semibold inline-flex items-center gap-1"><span class="w-1.5 h-1.5 rounded-full bg-emerald-400"></span>Compiled 0 err</span>
                                 </div>
                                 <p><span class="text-blue-400">const</span> app = <span class="text-gc-orange font-bold">Graphicode</span>.<span class="text-amber-300">architect</span>({</p>
                                 <p class="pl-4">platforms: [<span class="text-emerald-300">'iOS'</span>, <span class="text-emerald-300">'Android'</span>, <span class="text-emerald-300">'Web SaaS'</span>],</p>
@@ -189,9 +195,7 @@
 
                     <!-- Floating Badge 1: App Store Downloads -->
                     <div class="absolute -top-6 -right-4 sm:-right-8 bg-white p-3.5 rounded-2xl shadow-xl border border-slate-100 flex items-center gap-3 animate-float">
-                        <div class="w-10 h-10 rounded-xl bg-orange-50 text-gc-orange flex items-center justify-center font-bold text-xl">
-                            🚀
-                        </div>
+                        <div class="w-10 h-10 rounded-xl bg-orange-50 text-gc-orange flex items-center justify-center font-bold"><svg class="w-5 h-5 text-gc-orange" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"/></svg></div>
                         <div>
                             <p class="text-[10px] uppercase font-bold text-slate-400">Total Downloads</p>
                             <p class="text-sm font-black text-slate-900 tracking-tight">500,000+</p>
@@ -200,9 +204,7 @@
 
                     <!-- Floating Badge 2: Organic ROI Booster -->
                     <div class="absolute -bottom-6 -left-4 sm:-left-8 bg-white p-3.5 rounded-2xl shadow-xl border border-slate-100 flex items-center gap-3 animate-float-reverse">
-                        <div class="w-10 h-10 rounded-xl bg-blue-50 text-gc-blue flex items-center justify-center font-bold text-xl">
-                            📈
-                        </div>
+                        <div class="w-10 h-10 rounded-xl bg-blue-50 text-gc-blue flex items-center justify-center font-bold"><svg class="w-5 h-5 text-gc-blue" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6"/></svg></div>
                         <div>
                             <p class="text-[10px] uppercase font-bold text-slate-400">Client Revenue Boost</p>
                             <p class="text-sm font-black text-slate-900 tracking-tight">3.8x Average ROI</p>
@@ -225,25 +227,25 @@
         </p>
         <div class="flex flex-wrap items-center justify-center gap-6 sm:gap-10 text-slate-700 font-bold text-sm sm:text-base">
             <div class="flex items-center gap-2 px-3 py-1.5 rounded-lg bg-white border border-slate-200/80 shadow-xs">
-                <span class="text-red-500 font-black">●</span> Laravel
+                <span class="w-2 h-2 rounded-full bg-red-500 inline-block mr-1"></span> Laravel
             </div>
             <div class="flex items-center gap-2 px-3 py-1.5 rounded-lg bg-white border border-slate-200/80 shadow-xs">
-                <span class="text-blue-500 font-black">●</span> Flutter &amp; Dart
+                <span class="w-2 h-2 rounded-full bg-blue-500 inline-block mr-1"></span> Flutter &amp; Dart
             </div>
             <div class="flex items-center gap-2 px-3 py-1.5 rounded-lg bg-white border border-slate-200/80 shadow-xs">
-                <span class="text-sky-500 font-black">●</span> React Native &amp; Next.js
+                <span class="w-2 h-2 rounded-full bg-sky-500 inline-block mr-1"></span> React Native &amp; Next.js
             </div>
             <div class="flex items-center gap-2 px-3 py-1.5 rounded-lg bg-white border border-slate-200/80 shadow-xs">
-                <span class="text-purple-600 font-black">●</span> Figma UI/UX
+                <span class="w-2 h-2 rounded-full bg-purple-600 inline-block mr-1"></span> Figma UI/UX
             </div>
             <div class="flex items-center gap-2 px-3 py-1.5 rounded-lg bg-white border border-slate-200/80 shadow-xs">
-                <span class="text-cyan-500 font-black">●</span> Tailwind CSS v4
+                <span class="w-2 h-2 rounded-full bg-cyan-500 inline-block mr-1"></span> Tailwind CSS v4
             </div>
             <div class="flex items-center gap-2 px-3 py-1.5 rounded-lg bg-white border border-slate-200/80 shadow-xs">
-                <span class="text-amber-500 font-black">●</span> AWS &amp; Google Cloud
+                <span class="w-2 h-2 rounded-full bg-amber-500 inline-block mr-1"></span> AWS &amp; Google Cloud
             </div>
             <div class="flex items-center gap-2 px-3 py-1.5 rounded-lg bg-white border border-slate-200/80 shadow-xs">
-                <span class="text-emerald-500 font-black">●</span> Google SEO &amp; Ads
+                <span class="w-2 h-2 rounded-full bg-emerald-500 inline-block mr-1"></span> Google SEO &amp; Ads
             </div>
         </div>
     </div>
@@ -257,7 +259,7 @@
         <!-- Section Header -->
         <div class="text-center max-w-3xl mx-auto mb-16 space-y-4">
             <span class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-bold bg-blue-50 text-gc-blue border border-blue-100">
-                ⭐ What We Excel At
+                <svg class="w-3.5 h-3.5 text-gc-blue inline mr-1" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>What We Excel At
             </span>
             <h2 class="font-heading text-3xl sm:text-4xl lg:text-5xl font-extrabold text-slate-900 tracking-tight">
                 Complete Digital Solutions Under One Roof
@@ -272,9 +274,7 @@
             
             <!-- Service 1: Mobile App Development -->
             <div class="group relative bg-white p-8 sm:p-10 rounded-3xl border border-slate-200/80 hover:border-gc-blue shadow-sm hover:shadow-xl transition-all duration-300">
-                <div class="w-14 h-14 rounded-2xl bg-blue-50 text-gc-blue flex items-center justify-center text-2xl font-black mb-6 group-hover:scale-110 transition-transform">
-                    📱
-                </div>
+                <div class="w-14 h-14 rounded-2xl bg-blue-50 text-gc-blue flex items-center justify-center mb-6 group-hover:scale-110 transition-transform"><svg class="w-7 h-7 text-gc-blue" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 18h.01M8 21h8a2 2 0 002-2V5a2 2 0 00-2-2H8a2 2 0 00-2 2v14a2 2 0 002 2z"/></svg></div>
                 <div class="space-y-3">
                     <span class="text-xs uppercase font-extrabold tracking-wider text-gc-blue">Mobile Engineering</span>
                     <h3 class="text-2xl font-bold text-slate-900 group-hover:text-gc-blue transition-colors">
@@ -285,9 +285,9 @@
                     </p>
                     
                     <ul class="space-y-2 pt-2 text-xs sm:text-sm font-semibold text-slate-700">
-                        <li class="flex items-center gap-2"><span class="text-gc-blue">✓</span> Cross-platform iOS &amp; Android with single codebase</li>
-                        <li class="flex items-center gap-2"><span class="text-gc-blue">✓</span> App Store &amp; Google Play Store compliance &amp; publishing</li>
-                        <li class="flex items-center gap-2"><span class="text-gc-blue">✓</span> Real-time chat, GPS, push notifications, and payment gateways</li>
+                        <li class="flex items-center gap-2"><svg class="w-3.5 h-3.5 text-gc-blue shrink-0 inline mr-1" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7"/></svg> Cross-platform iOS &amp; Android with single codebase</li>
+                        <li class="flex items-center gap-2"><svg class="w-3.5 h-3.5 text-gc-blue shrink-0 inline mr-1" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7"/></svg> App Store &amp; Google Play Store compliance &amp; publishing</li>
+                        <li class="flex items-center gap-2"><svg class="w-3.5 h-3.5 text-gc-blue shrink-0 inline mr-1" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7"/></svg> Real-time chat, GPS, push notifications, and payment gateways</li>
                     </ul>
 
                     <div class="pt-4 flex items-center justify-between border-t border-slate-100">
@@ -305,9 +305,7 @@
 
             <!-- Service 2: Software Development & SaaS -->
             <div class="group relative bg-white p-8 sm:p-10 rounded-3xl border border-slate-200/80 hover:border-gc-blue shadow-sm hover:shadow-xl transition-all duration-300">
-                <div class="w-14 h-14 rounded-2xl bg-indigo-50 text-indigo-600 flex items-center justify-center text-2xl font-black mb-6 group-hover:scale-110 transition-transform">
-                    💻
-                </div>
+                <div class="w-14 h-14 rounded-2xl bg-indigo-50 text-indigo-600 flex items-center justify-center mb-6 group-hover:scale-110 transition-transform"><svg class="w-7 h-7 text-indigo-600" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.75 17L9 20l-1 1h8l-1-1-.75-3M3 13h18M5 17h14a2 2 0 002-2V5a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/></svg></div>
                 <div class="space-y-3">
                     <span class="text-xs uppercase font-extrabold tracking-wider text-indigo-600">Enterprise Engineering</span>
                     <h3 class="text-2xl font-bold text-slate-900 group-hover:text-gc-blue transition-colors">
@@ -318,9 +316,9 @@
                     </p>
 
                     <ul class="space-y-2 pt-2 text-xs sm:text-sm font-semibold text-slate-700">
-                        <li class="flex items-center gap-2"><span class="text-gc-blue">✓</span> Enterprise CRM, ERP &amp; business workflow automation</li>
-                        <li class="flex items-center gap-2"><span class="text-gc-blue">✓</span> Multi-tenant SaaS architectures &amp; subscription billing</li>
-                        <li class="flex items-center gap-2"><span class="text-gc-blue">✓</span> Bulletproof security, 2FA, biometric passkeys &amp; audit logs</li>
+                        <li class="flex items-center gap-2"><svg class="w-3.5 h-3.5 text-gc-blue shrink-0 inline mr-1" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7"/></svg> Enterprise CRM, ERP &amp; business workflow automation</li>
+                        <li class="flex items-center gap-2"><svg class="w-3.5 h-3.5 text-gc-blue shrink-0 inline mr-1" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7"/></svg> Multi-tenant SaaS architectures &amp; subscription billing</li>
+                        <li class="flex items-center gap-2"><svg class="w-3.5 h-3.5 text-gc-blue shrink-0 inline mr-1" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7"/></svg> Bulletproof security, 2FA, biometric passkeys &amp; audit logs</li>
                     </ul>
 
                     <div class="pt-4 flex items-center justify-between border-t border-slate-100">
@@ -338,9 +336,7 @@
 
             <!-- Service 3: Graphic Design & UI/UX Branding -->
             <div class="group relative bg-white p-8 sm:p-10 rounded-3xl border border-slate-200/80 hover:border-gc-orange shadow-sm hover:shadow-xl transition-all duration-300">
-                <div class="w-14 h-14 rounded-2xl bg-orange-50 text-gc-orange flex items-center justify-center text-2xl font-black mb-6 group-hover:scale-110 transition-transform">
-                    🎨
-                </div>
+                <div class="w-14 h-14 rounded-2xl bg-orange-50 text-gc-orange flex items-center justify-center mb-6 group-hover:scale-110 transition-transform"><svg class="w-7 h-7 text-gc-orange" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 21a4 4 0 01-4-4 5 5 0 014.54-4.97A7 7 0 1115 19H7zm0 0a2 2 0 100-4 2 2 0 000 4z"/></svg></div>
                 <div class="space-y-3">
                     <span class="text-xs uppercase font-extrabold tracking-wider text-gc-orange">Brand &amp; Creative</span>
                     <h3 class="text-2xl font-bold text-slate-900 group-hover:text-gc-orange transition-colors">
@@ -351,9 +347,9 @@
                     </p>
 
                     <ul class="space-y-2 pt-2 text-xs sm:text-sm font-semibold text-slate-700">
-                        <li class="flex items-center gap-2"><span class="text-gc-orange">✓</span> Full brand identity: logo, color palettes, typography &amp; pitch decks</li>
-                        <li class="flex items-center gap-2"><span class="text-gc-orange">✓</span> User-centric UI/UX design wireframes &amp; clickable Figma prototypes</li>
-                        <li class="flex items-center gap-2"><span class="text-gc-orange">✓</span> Marketing creatives, banner ads, infographics &amp; social assets</li>
+                        <li class="flex items-center gap-2"><svg class="w-3.5 h-3.5 text-gc-orange shrink-0 inline mr-1" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7"/></svg> Full brand identity: logo, color palettes, typography &amp; pitch decks</li>
+                        <li class="flex items-center gap-2"><svg class="w-3.5 h-3.5 text-gc-orange shrink-0 inline mr-1" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7"/></svg> User-centric UI/UX design wireframes &amp; clickable Figma prototypes</li>
+                        <li class="flex items-center gap-2"><svg class="w-3.5 h-3.5 text-gc-orange shrink-0 inline mr-1" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7"/></svg> Marketing creatives, banner ads, infographics &amp; social assets</li>
                     </ul>
 
                     <div class="pt-4 flex items-center justify-between border-t border-slate-100">
@@ -371,9 +367,7 @@
 
             <!-- Service 4: Software Marketing & Performance SEO -->
             <div class="group relative bg-white p-8 sm:p-10 rounded-3xl border border-slate-200/80 hover:border-gc-orange shadow-sm hover:shadow-xl transition-all duration-300">
-                <div class="w-14 h-14 rounded-2xl bg-amber-50 text-amber-600 flex items-center justify-center text-2xl font-black mb-6 group-hover:scale-110 transition-transform">
-                    🚀
-                </div>
+                <div class="w-14 h-14 rounded-2xl bg-amber-50 text-amber-600 flex items-center justify-center mb-6 group-hover:scale-110 transition-transform"><svg class="w-7 h-7 text-amber-600" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6"/></svg></div>
                 <div class="space-y-3">
                     <span class="text-xs uppercase font-extrabold tracking-wider text-amber-600">Growth Engineering</span>
                     <h3 class="text-2xl font-bold text-slate-900 group-hover:text-gc-orange transition-colors">
@@ -384,9 +378,9 @@
                     </p>
 
                     <ul class="space-y-2 pt-2 text-xs sm:text-sm font-semibold text-slate-700">
-                        <li class="flex items-center gap-2"><span class="text-gc-orange">✓</span> Technical on-page &amp; off-page SEO to rank #1 on Google</li>
-                        <li class="flex items-center gap-2"><span class="text-gc-orange">✓</span> High-ROI Google Search Ads, YouTube Ads &amp; Meta campaigns</li>
-                        <li class="flex items-center gap-2"><span class="text-gc-orange">✓</span> App Store Optimization (ASO) for maximum organic downloads</li>
+                        <li class="flex items-center gap-2"><svg class="w-3.5 h-3.5 text-gc-orange shrink-0 inline mr-1" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7"/></svg> Technical on-page &amp; off-page SEO to rank #1 on Google</li>
+                        <li class="flex items-center gap-2"><svg class="w-3.5 h-3.5 text-gc-orange shrink-0 inline mr-1" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7"/></svg> High-ROI Google Search Ads, YouTube Ads &amp; Meta campaigns</li>
+                        <li class="flex items-center gap-2"><svg class="w-3.5 h-3.5 text-gc-orange shrink-0 inline mr-1" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7"/></svg> App Store Optimization (ASO) for maximum organic downloads</li>
                     </ul>
 
                     <div class="pt-4 flex items-center justify-between border-t border-slate-100">
@@ -414,7 +408,7 @@
         
         <div class="text-center max-w-3xl mx-auto mb-16 space-y-4">
             <span class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-bold bg-emerald-50 text-emerald-700 border border-emerald-200">
-                💡 Instant Transparent Pricing
+                <svg class="w-3.5 h-3.5 text-emerald-600 inline mr-1" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z"/></svg>Instant Transparent Pricing
             </span>
             <h2 class="font-heading text-3xl sm:text-4xl lg:text-5xl font-extrabold text-slate-900 tracking-tight">
                 Interactive Project Cost Estimator
@@ -436,22 +430,22 @@
                     </label>
                     <div class="grid grid-cols-2 sm:grid-cols-4 gap-3">
                         <button type="button" data-val="app" class="calc-type text-left p-3.5 rounded-2xl border-2 border-gc-blue bg-blue-50/50 ring-2 ring-gc-blue/20 transition-all">
-                            <span class="text-xl block mb-1">📱</span>
+                            <svg class="w-5 h-5 mb-1.5 text-gc-blue" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 18h.01M8 21h8a2 2 0 002-2V5a2 2 0 00-2-2H8a2 2 0 00-2 2v14a2 2 0 002 2z"/></svg>
                             <span class="text-xs font-bold text-slate-900 block">Mobile App</span>
                             <span class="text-[10px] text-slate-500">iOS &amp; Android</span>
                         </button>
                         <button type="button" data-val="software" class="calc-type text-left p-3.5 rounded-2xl border-2 border-slate-200 hover:border-slate-300 transition-all">
-                            <span class="text-xl block mb-1">💻</span>
+                            <svg class="w-5 h-5 mb-1.5 text-slate-700" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.75 17L9 20l-1 1h8l-1-1-.75-3M3 13h18M5 17h14a2 2 0 002-2V5a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/></svg>
                             <span class="text-xs font-bold text-slate-900 block">Software / SaaS</span>
                             <span class="text-[10px] text-slate-500">Web Portal / CRM</span>
                         </button>
                         <button type="button" data-val="design" class="calc-type text-left p-3.5 rounded-2xl border-2 border-slate-200 hover:border-slate-300 transition-all">
-                            <span class="text-xl block mb-1">🎨</span>
+                            <svg class="w-5 h-5 mb-1.5 text-slate-700" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 21a4 4 0 01-4-4 5 5 0 014.54-4.97A7 7 0 1115 19H7zm0 0a2 2 0 100-4 2 2 0 000 4z"/></svg>
                             <span class="text-xs font-bold text-slate-900 block">UI/UX &amp; Brand</span>
                             <span class="text-[10px] text-slate-500">Logo &amp; Product</span>
                         </button>
                         <button type="button" data-val="marketing" class="calc-type text-left p-3.5 rounded-2xl border-2 border-slate-200 hover:border-slate-300 transition-all">
-                            <span class="text-xl block mb-1">🚀</span>
+                            <svg class="w-5 h-5 mb-1.5 text-slate-700" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6"/></svg>
                             <span class="text-xs font-bold text-slate-900 block">Marketing &amp; SEO</span>
                             <span class="text-[10px] text-slate-500">Growth Ads &amp; Rank</span>
                         </button>
@@ -486,13 +480,13 @@
                     </label>
                     <div class="grid grid-cols-3 gap-3">
                         <button type="button" data-val="urgent" class="calc-timeline text-center p-3 rounded-xl border border-slate-200 text-xs font-bold hover:bg-slate-50 transition-colors">
-                            ⚡ Fast Sprint
+                            <svg class="w-3.5 h-3.5 text-gc-orange inline mr-1" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M11.3 1.046A1 1 0 0112 2v5h4a1 1 0 01.82 1.573l-7 10A1 1 0 018 18v-5H4a1 1 0 01-.82-1.573l7-10a1 1 0 011.12-.381z" clip-rule="evenodd"/></svg>Fast Sprint
                         </button>
                         <button type="button" data-val="standard" class="calc-timeline text-center p-3 rounded-xl border border-slate-800 bg-slate-100 text-xs font-bold transition-colors">
-                            📅 Standard
+                            <svg class="w-3.5 h-3.5 text-slate-700 inline mr-1" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"/></svg>Standard
                         </button>
                         <button type="button" data-val="flexible" class="calc-timeline text-center p-3 rounded-xl border border-slate-200 text-xs font-bold hover:bg-slate-50 transition-colors">
-                            🌿 Flexible
+                            <svg class="w-3.5 h-3.5 text-emerald-600 inline mr-1" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>Flexible
                         </button>
                     </div>
                 </div>
@@ -561,7 +555,7 @@
         <div class="flex flex-col md:flex-row md:items-end justify-between mb-12 gap-6">
             <div class="space-y-3">
                 <span class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-bold bg-blue-50 text-gc-blue border border-blue-100">
-                    🏆 Proven Track Record
+                    <svg class="w-3.5 h-3.5 text-gc-blue inline mr-1" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 3v4M3 5h4M6 17v4m-2-2h4m5-16l2.286 6.857L21 12l-5.714 2.143L13 21l-2.286-6.857L5 12l5.714-2.143L13 3z"/></svg>Proven Track Record
                 </span>
                 <h2 class="font-heading text-3xl sm:text-4xl font-extrabold text-slate-900 tracking-tight">
                     Featured Work &amp; Case Studies
@@ -599,7 +593,7 @@
                         <span class="px-2.5 py-1 bg-white/20 backdrop-blur rounded-full text-[11px] font-bold uppercase tracking-wider">
                             FinTech Mobile App
                         </span>
-                        <span class="text-xl">💳</span>
+                        <div class="w-8 h-8 rounded-lg bg-white/20 backdrop-blur flex items-center justify-center text-white"><svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 10h18M7 15h1m4 0h1m-7 4h12a3 3 0 003-3V8a3 3 0 00-3-3H6a3 3 0 00-3 3v8a3 3 0 003 3z"/></svg></div>
                     </div>
                     <div class="z-10">
                         <p class="text-xs text-blue-200">Flutter • Laravel API • WebSockets</p>
@@ -611,7 +605,7 @@
                         Cross-platform financial application with real-time wallet settlement, biometric authentication, and QR code payments processing 150,000+ daily transactions.
                     </p>
                     <div class="flex items-center justify-between pt-3 border-t border-slate-100 text-xs">
-                        <span class="font-bold text-emerald-600">★ 4.9 Rating (80k Users)</span>
+                        <span class="font-bold text-emerald-600"><span class="inline-flex items-center gap-1"><svg class="w-3.5 h-3.5 fill-current text-amber-500" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>4.9 Rating (80k Users)</span></span>
                         <span class="font-semibold text-gc-blue">View Details →</span>
                     </div>
                 </div>
@@ -625,7 +619,7 @@
                         <span class="px-2.5 py-1 bg-white/20 backdrop-blur rounded-full text-[11px] font-bold uppercase tracking-wider">
                             Enterprise SaaS
                         </span>
-                        <span class="text-xl">📊</span>
+                        <div class="w-8 h-8 rounded-lg bg-white/20 backdrop-blur flex items-center justify-center text-white"><svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"/></svg></div>
                     </div>
                     <div class="z-10">
                         <p class="text-xs text-blue-200">Laravel 13 • Tailwind • AWS</p>
@@ -651,7 +645,7 @@
                         <span class="px-2.5 py-1 bg-white/20 backdrop-blur rounded-full text-[11px] font-bold uppercase tracking-wider">
                             Branding &amp; Growth SEO
                         </span>
-                        <span class="text-xl">🎯</span>
+                        <div class="w-8 h-8 rounded-lg bg-white/20 backdrop-blur flex items-center justify-center text-white"><svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6"/></svg></div>
                     </div>
                     <div class="z-10">
                         <p class="text-xs text-orange-100">Figma UI/UX • Google Search Ads</p>
@@ -682,7 +676,7 @@
         
         <div class="text-center max-w-3xl mx-auto mb-16 space-y-4">
             <span class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-bold bg-blue-50 text-gc-blue border border-blue-100">
-                💎 The Graphicode Standard
+                <svg class="w-3.5 h-3.5 text-gc-blue inline mr-1" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"/></svg>The Graphicode Standard
             </span>
             <h2 class="font-heading text-3xl sm:text-4xl lg:text-5xl font-extrabold text-slate-900 tracking-tight">
                 Why Visionary Businesses Choose Us
@@ -694,9 +688,7 @@
 
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div class="bg-white p-8 rounded-3xl border border-slate-200/90 shadow-sm space-y-3">
-                <div class="w-12 h-12 rounded-xl bg-blue-50 text-gc-blue flex items-center justify-center font-bold text-xl">
-                    1️⃣
-                </div>
+                <div class="w-12 h-12 rounded-2xl bg-blue-50 text-gc-blue flex items-center justify-center"><svg class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4"/></svg></div>
                 <h3 class="text-xl font-bold text-slate-900">Code + Design + Marketing</h3>
                 <p class="text-sm text-slate-600 leading-relaxed">
                     Most companies hire three separate vendors: one for coding, one for design, and one for marketing. We align all three disciplines under one unified strategy, preventing disconnects and saving budget.
@@ -704,9 +696,7 @@
             </div>
 
             <div class="bg-white p-8 rounded-3xl border border-slate-200/90 shadow-sm space-y-3">
-                <div class="w-12 h-12 rounded-xl bg-orange-50 text-gc-orange flex items-center justify-center font-bold text-xl">
-                    2️⃣
-                </div>
+                <div class="w-12 h-12 rounded-2xl bg-orange-50 text-gc-orange flex items-center justify-center"><svg class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4.354a4 4 0 110 5.292M15 21H3v-1a6 6 0 0112 0v1zm0 0h6v-1a6 6 0 00-9-5.197M13 7a4 4 0 11-8 0 4 4 0 018 0z"/></svg></div>
                 <h3 class="text-xl font-bold text-slate-900">Agile Transparency &amp; Direct Access</h3>
                 <p class="text-sm text-slate-600 leading-relaxed">
                     No middlemen or frustrating delays. You communicate directly with dedicated senior developers, designers, and project managers through live staging environments and weekly progress demos.
@@ -714,9 +704,7 @@
             </div>
 
             <div class="bg-white p-8 rounded-3xl border border-slate-200/90 shadow-sm space-y-3">
-                <div class="w-12 h-12 rounded-xl bg-emerald-50 text-emerald-600 flex items-center justify-center font-bold text-xl">
-                    3️⃣
-                </div>
+                <div class="w-12 h-12 rounded-2xl bg-emerald-50 text-emerald-600 flex items-center justify-center"><svg class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"/></svg></div>
                 <h3 class="text-xl font-bold text-slate-900">100% IP &amp; Code Ownership</h3>
                 <p class="text-sm text-slate-600 leading-relaxed">
                     From day one, all intellectual property, Figma design files, database schemas, and clean GitHub repositories are 100% owned by your company. No vendor lock-in, ever.
@@ -735,7 +723,7 @@
         
         <div class="text-center max-w-3xl mx-auto mb-16 space-y-4">
             <span class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-bold bg-blue-50 text-gc-blue border border-blue-100">
-                ⚙️ The Proven Blueprint
+                <svg class="w-3.5 h-3.5 text-gc-blue inline mr-1" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z"/><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"/></svg>The Proven Blueprint
             </span>
             <h2 class="font-heading text-3xl sm:text-4xl font-extrabold text-slate-900 tracking-tight">
                 Our 4-Step Engineering &amp; Growth Framework
@@ -792,7 +780,7 @@
         
         <div class="text-center max-w-3xl mx-auto mb-16 space-y-4">
             <span class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-bold bg-amber-50 text-amber-700 border border-amber-200">
-                💬 Client Endorsements
+                <svg class="w-3.5 h-3.5 text-amber-600 inline mr-1" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z"/></svg>Client Endorsements
             </span>
             <h2 class="font-heading text-3xl sm:text-4xl font-extrabold text-slate-900 tracking-tight">
                 Trusted by Founders &amp; Engineering Leaders
@@ -806,7 +794,13 @@
             
             <div class="bg-white p-8 rounded-3xl border border-slate-200 shadow-sm flex flex-col justify-between space-y-6">
                 <div class="space-y-4">
-                    <div class="flex text-amber-400 text-sm">★★★★★</div>
+                    <div class="flex items-center text-amber-400 gap-0.5">
+                        <svg class="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
+                        <svg class="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
+                        <svg class="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
+                        <svg class="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
+                        <svg class="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
+                    </div>
                     <p class="text-slate-700 text-sm leading-relaxed italic">
                         "Graphicode India built our cross-platform delivery app from scratch in under 10 weeks. The Flutter performance is buttery smooth, and their marketing team helped us acquire our first 25,000 users with phenomenal ad ROI."
                     </p>
@@ -824,7 +818,13 @@
 
             <div class="bg-white p-8 rounded-3xl border border-slate-200 shadow-sm flex flex-col justify-between space-y-6">
                 <div class="space-y-4">
-                    <div class="flex text-amber-400 text-sm">★★★★★</div>
+                    <div class="flex items-center text-amber-400 gap-0.5">
+                        <svg class="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
+                        <svg class="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
+                        <svg class="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
+                        <svg class="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
+                        <svg class="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
+                    </div>
                     <p class="text-slate-700 text-sm leading-relaxed italic">
                         "The graphic design and brand overhaul completely transformed how enterprise clients perceive us. We were able to close a \$120,000 contract simply because our new web portal and pitch assets looked world-class."
                     </p>
@@ -842,7 +842,13 @@
 
             <div class="bg-white p-8 rounded-3xl border border-slate-200 shadow-sm flex flex-col justify-between space-y-6">
                 <div class="space-y-4">
-                    <div class="flex text-amber-400 text-sm">★★★★★</div>
+                    <div class="flex items-center text-amber-400 gap-0.5">
+                        <svg class="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
+                        <svg class="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
+                        <svg class="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
+                        <svg class="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
+                        <svg class="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
+                    </div>
                     <p class="text-slate-700 text-sm leading-relaxed italic">
                         "Their Laravel expertise is second to none. We migrated our legacy PHP application to a modern SaaS architecture without a single minute of downtime. Transparent billing and rock-solid code quality."
                     </p>
@@ -871,7 +877,7 @@
         
         <div class="text-center mb-16 space-y-4">
             <span class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-bold bg-blue-50 text-gc-blue border border-blue-100">
-                ❓ Clarifications
+                <svg class="w-3.5 h-3.5 text-gc-blue inline mr-1" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8.228 9c.549-1.165 2.03-2 3.772-2 2.21 0 4 1.343 4 3 0 1.4-1.278 2.575-3.006 2.907-.542.104-.994.54-.994 1.093m0 3h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>Clarifications
             </span>
             <h2 class="font-heading text-3xl sm:text-4xl font-extrabold text-slate-900 tracking-tight">
                 Frequently Asked Questions
@@ -950,7 +956,7 @@
 
                 <div class="space-y-6 relative z-10">
                     <span class="inline-flex items-center gap-1 px-3 py-1 rounded-full text-xs font-bold bg-white/10 text-blue-200 border border-white/20">
-                        ⚡ Quick Response Guaranteed
+                        <svg class="w-3.5 h-3.5 text-blue-200 inline mr-1" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M11.3 1.046A1 1 0 0112 2v5h4a1 1 0 01.82 1.573l-7 10A1 1 0 018 18v-5H4a1 1 0 01-.82-1.573l7-10a1 1 0 011.12-.381z" clip-rule="evenodd"/></svg>Quick Response Guaranteed
                     </span>
                     <h2 class="font-heading text-3xl sm:text-4xl font-extrabold text-white tracking-tight">
                         Let's Turn Your Concept into Reality
@@ -961,9 +967,7 @@
 
                     <div class="space-y-4 pt-4 text-sm text-blue-100">
                         <div class="flex items-center gap-3">
-                            <div class="w-9 h-9 rounded-xl bg-white/10 flex items-center justify-center shrink-0">
-                                📍
-                            </div>
+                            <div class="w-9 h-9 rounded-xl bg-white/10 flex items-center justify-center shrink-0"><svg class="w-5 h-5 text-blue-200" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/></svg></div>
                             <div>
                                 <p class="text-xs text-blue-200">Headquarters</p>
                                 <p class="font-bold text-white">India • Serving Worldwide</p>
@@ -971,9 +975,7 @@
                         </div>
 
                         <div class="flex items-center gap-3">
-                            <div class="w-9 h-9 rounded-xl bg-white/10 flex items-center justify-center shrink-0">
-                                📧
-                            </div>
+                            <div class="w-9 h-9 rounded-xl bg-white/10 flex items-center justify-center shrink-0"><svg class="w-5 h-5 text-blue-200" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/></svg></div>
                             <div>
                                 <p class="text-xs text-blue-200">Official Inquiries</p>
                                 <a href="mailto:contact@graphicodeindia.com" class="font-bold text-white hover:underline">contact@graphicodeindia.com</a>
@@ -981,9 +983,7 @@
                         </div>
 
                         <div class="flex items-center gap-3">
-                            <div class="w-9 h-9 rounded-xl bg-white/10 flex items-center justify-center shrink-0">
-                                📞
-                            </div>
+                            <div class="w-9 h-9 rounded-xl bg-white/10 flex items-center justify-center shrink-0"><svg class="w-5 h-5 text-blue-200" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/></svg></div>
                             <div>
                                 <p class="text-xs text-blue-200">Direct Call / WhatsApp</p>
                                 <a href="tel:+919876543210" class="font-bold text-white hover:underline">+91 98765 43210</a>
@@ -993,7 +993,7 @@
                 </div>
 
                 <div class="pt-8 border-t border-white/10 text-xs text-blue-200 relative z-10">
-                    🔒 Protected under mutual Non-Disclosure Agreement (NDA). Your idea and information remain 100% confidential.
+                    <svg class="w-4 h-4 text-emerald-400 inline mr-1 shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z"/></svg>Protected under mutual Non-Disclosure Agreement (NDA). Your idea and information remain 100% confidential.
                 </div>
             </div>
 
@@ -1117,7 +1117,7 @@
                             </svg>
                         </button>
                         <p class="text-center text-xs text-slate-500 mt-3">
-                            ⚡ We typically respond within 2 to 4 hours with a preliminary project roadmap.
+                            <svg class="w-3.5 h-3.5 text-gc-orange inline mr-1" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M11.3 1.046A1 1 0 0112 2v5h4a1 1 0 01.82 1.573l-7 10A1 1 0 018 18v-5H4a1 1 0 01-.82-1.573l7-10a1 1 0 011.12-.381z" clip-rule="evenodd"/></svg>We typically respond within 2 to 4 hours with a preliminary project roadmap.
                         </p>
                     </div>
                 </form>

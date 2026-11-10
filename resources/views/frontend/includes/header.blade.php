@@ -3,7 +3,7 @@
     <div class="max-w-7xl mx-auto flex items-center justify-between">
         <div class="flex items-center gap-2 overflow-hidden whitespace-nowrap">
             <span class="inline-flex items-center gap-1.5 px-2 py-0.5 rounded-full text-[11px] font-semibold bg-gc-orange text-white uppercase tracking-wider animate-pulse">
-                <span>🔥</span> Now Booking
+                <svg class="w-3 h-3 text-white fill-current inline mr-1" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M12.395 2.553a1 1 0 00-1.45-.385c-.345.23-.614.558-.822.88-.527.82-1.173 1.55-1.874 2.253-1.077 1.08-2.237 2.16-3.06 3.527C4.4 10.15 4 11.515 4 13a8 8 0 0016 0c0-1.846-.666-3.54-1.782-4.88-.707-.847-1.57-1.545-2.482-2.17-.923-.632-1.89-1.29-2.585-2.21a5.006 5.006 0 01-.756-1.187z" clip-rule="evenodd"/></svg>Now Booking
             </span>
             <span class="text-blue-100 font-medium truncate">
                 Scale your vision with Graphicode India • App Development, Custom Software & High-Impact Branding
@@ -157,9 +157,9 @@
             </div>
 
             <div class="pt-4 text-xs text-slate-500 space-y-1">
-                <p>📍 India (Headquarters & Global Remote Services)</p>
-                <p>📧 contact@graphicodeindia.com</p>
-                <p>📞 +91 98765 43210</p>
+                <p class="flex items-center gap-1.5"><svg class="w-3.5 h-3.5 text-gc-orange shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/></svg><span>India (Headquarters & Global Remote Services)</span></p>
+                <p class="flex items-center gap-1.5"><svg class="w-3.5 h-3.5 text-gc-orange shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/></svg><span>contact@graphicodeindia.com</span></p>
+                <p class="flex items-center gap-1.5"><svg class="w-3.5 h-3.5 text-gc-orange shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/></svg><span>+91 98765 43210</span></p>
             </div>
         </div>
     </div>

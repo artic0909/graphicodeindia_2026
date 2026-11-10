@@ -12,10 +12,10 @@
             <div class="space-y-3 text-center lg:text-left max-w-2xl">
                 <div class="flex flex-wrap items-center justify-center lg:justify-start gap-2">
                     <span class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-bold bg-gc-orange text-white uppercase tracking-wider">
-                        <span>⚡</span> 24-Hour Project Blueprint
+                        <svg class="w-3.5 h-3.5 text-white fill-current inline mr-1" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M11.3 1.046A1 1 0 0112 2v5h4a1 1 0 01.82 1.573l-7 10A1 1 0 018 18v-5H4a1 1 0 01-.82-1.573l7-10a1 1 0 011.12-.381z" clip-rule="evenodd"/></svg>24-Hour Project Blueprint
                     </span>
                     <span class="inline-flex items-center gap-1 px-2.5 py-1 rounded-full text-xs font-medium bg-[#1c449c] text-white border border-blue-400/30">
-                        <span>✓</span> 100% Free Consultation
+                        <svg class="w-3.5 h-3.5 text-blue-300 inline mr-1" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7"/></svg>100% Free Consultation
                     </span>
                 </div>
                 <h3 class="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-white tracking-tight leading-tight">
@@ -79,19 +79,19 @@
                 <!-- Core Trust Highlights (Solid Badges) -->
                 <div class="grid grid-cols-2 gap-2.5 text-xs font-semibold text-white">
                     <div class="p-2.5 rounded-lg bg-[#0d2256] border border-white/10 flex items-center gap-2">
-                        <span class="text-gc-orange text-sm font-bold">✓</span>
+                        <svg class="w-4 h-4 text-gc-orange shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7"/></svg>
                         <span>100% Code Ownership</span>
                     </div>
                     <div class="p-2.5 rounded-lg bg-[#0d2256] border border-white/10 flex items-center gap-2">
-                        <span class="text-gc-orange text-sm font-bold">✓</span>
+                        <svg class="w-4 h-4 text-gc-orange shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7"/></svg>
                         <span>Strict Mutual NDA</span>
                     </div>
                     <div class="p-2.5 rounded-lg bg-[#0d2256] border border-white/10 flex items-center gap-2">
-                        <span class="text-gc-orange text-sm font-bold">✓</span>
+                        <svg class="w-4 h-4 text-gc-orange shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7"/></svg>
                         <span>Agile Sprint Delivery</span>
                     </div>
                     <div class="p-2.5 rounded-lg bg-[#0d2256] border border-white/10 flex items-center gap-2">
-                        <span class="text-gc-orange text-sm font-bold">✓</span>
+                        <svg class="w-4 h-4 text-gc-orange shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7"/></svg>
                         <span>Free Post-Launch SLA</span>
                     </div>
                 </div>
@@ -219,35 +219,35 @@
 
             <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-8 gap-3">
                 <a href="#services" class="p-3 rounded-xl bg-[#0d2256] border border-white/10 hover:border-gc-orange text-center group transition-colors">
-                    <span class="text-xl block mb-1">💳</span>
+                    <svg class="w-6 h-6 mx-auto mb-1 text-blue-200 group-hover:text-gc-orange transition-colors" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 10h18M7 15h1m4 0h1m-7 4h12a3 3 0 003-3V8a3 3 0 00-3-3H6a3 3 0 00-3 3v8a3 3 0 003 3z"/></svg>
                     <span class="text-xs font-bold text-white group-hover:text-gc-orange transition-colors">FinTech &amp; Banking</span>
                 </a>
                 <a href="#services" class="p-3 rounded-xl bg-[#0d2256] border border-white/10 hover:border-gc-orange text-center group transition-colors">
-                    <span class="text-xl block mb-1">🏥</span>
+                    <svg class="w-6 h-6 mx-auto mb-1 text-blue-200 group-hover:text-gc-orange transition-colors" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z"/></svg>
                     <span class="text-xs font-bold text-white group-hover:text-gc-orange transition-colors">Healthcare &amp; MedTech</span>
                 </a>
                 <a href="#services" class="p-3 rounded-xl bg-[#0d2256] border border-white/10 hover:border-gc-orange text-center group transition-colors">
-                    <span class="text-xl block mb-1">🛒</span>
+                    <svg class="w-6 h-6 mx-auto mb-1 text-blue-200 group-hover:text-gc-orange transition-colors" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 3h2l.4 2M7 13h10l4-8H5.4M7 13L5.4 5M7 13l-2.293 2.293c-.63.63-.184 1.707.707 1.707H17m0 0a2 2 0 100 4 2 2 0 000-4zm-8 2a2 2 0 11-4 0 2 2 0 014 0z"/></svg>
                     <span class="text-xs font-bold text-white group-hover:text-gc-orange transition-colors">E-Commerce &amp; Retail</span>
                 </a>
                 <a href="#services" class="p-3 rounded-xl bg-[#0d2256] border border-white/10 hover:border-gc-orange text-center group transition-colors">
-                    <span class="text-xl block mb-1">🚚</span>
+                    <svg class="w-6 h-6 mx-auto mb-1 text-blue-200 group-hover:text-gc-orange transition-colors" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16V6a1 1 0 00-1-1H4a1 1 0 00-1 1v10a1 1 0 001 1h1m8-1a1 1 0 01-1 1H9m4-1V8a1 1 0 011-1h2.586a1 1 0 01.707.293l3.414 3.414a1 1 0 01.293.707V16a1 1 0 01-1 1h-1m-6-1a1 1 0 001 1h1M5 17a2 2 0 104 0m-4 0a2 2 0 114 0m6 0a2 2 0 104 0m-4 0a2 2 0 114 0"/></svg>
                     <span class="text-xs font-bold text-white group-hover:text-gc-orange transition-colors">Logistics &amp; Fleet</span>
                 </a>
                 <a href="#services" class="p-3 rounded-xl bg-[#0d2256] border border-white/10 hover:border-gc-orange text-center group transition-colors">
-                    <span class="text-xl block mb-1">🎓</span>
+                    <svg class="w-6 h-6 mx-auto mb-1 text-blue-200 group-hover:text-gc-orange transition-colors" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path d="M12 14l9-5-9-5-9 5 9 5z"/><path d="M12 14l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14z"/><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 14l9-5-9-5-9 5 9 5zm0 0l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14zm-4 6v-7.5"/></svg>
                     <span class="text-xs font-bold text-white group-hover:text-gc-orange transition-colors">EdTech &amp; E-Learning</span>
                 </a>
                 <a href="#services" class="p-3 rounded-xl bg-[#0d2256] border border-white/10 hover:border-gc-orange text-center group transition-colors">
-                    <span class="text-xl block mb-1">🏢</span>
+                    <svg class="w-6 h-6 mx-auto mb-1 text-blue-200 group-hover:text-gc-orange transition-colors" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4"/></svg>
                     <span class="text-xs font-bold text-white group-hover:text-gc-orange transition-colors">Real Estate &amp; PropTech</span>
                 </a>
                 <a href="#services" class="p-3 rounded-xl bg-[#0d2256] border border-white/10 hover:border-gc-orange text-center group transition-colors">
-                    <span class="text-xl block mb-1">⚡</span>
+                    <svg class="w-6 h-6 mx-auto mb-1 text-blue-200 group-hover:text-gc-orange transition-colors" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M11.3 1.046A1 1 0 0112 2v5h4a1 1 0 01.82 1.573l-7 10A1 1 0 018 18v-5H4a1 1 0 01-.82-1.573l7-10a1 1 0 011.12-.381z" clip-rule="evenodd"/></svg>
                     <span class="text-xs font-bold text-white group-hover:text-gc-orange transition-colors">On-Demand &amp; Delivery</span>
                 </a>
                 <a href="#services" class="p-3 rounded-xl bg-[#0d2256] border border-white/10 hover:border-gc-orange text-center group transition-colors">
-                    <span class="text-xl block mb-1">☁️</span>
+                    <svg class="w-6 h-6 mx-auto mb-1 text-blue-200 group-hover:text-gc-orange transition-colors" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 15a4 4 0 004 4h9a5 5 0 10-.1-9.999 5.002 5.002 0 00-9.78 2.096A4.001 4.001 0 003 15z"/></svg>
                     <span class="text-xs font-bold text-white group-hover:text-gc-orange transition-colors">SaaS &amp; B2B Workflows</span>
                 </a>
             </div>
@@ -328,7 +328,7 @@
                         © {{ date('Y') }} Graphicode India. All rights reserved. Registered Technology &amp; Digital Design Agency.
                     </p>
                     <p class="text-[11px] text-blue-300">
-                        ISO 9001:2015 Quality Standards • GDPR Data Privacy Compliant • 100% Confidential Mutual NDA Protection • Made with Pride in India 🇮🇳
+                        ISO 9001:2015 Quality Standards • GDPR Data Privacy Compliant • 100% Confidential Mutual NDA Protection • Made with Pride in India
                     </p>
                 </div>
 
