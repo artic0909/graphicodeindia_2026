@@ -127,6 +127,47 @@ select:focus[data-flux-control] {
     animation: spin-slow 24s linear infinite;
 }
 
+@keyframes radar-pulse {
+    0% {
+        transform: scale(0.95);
+        box-shadow: 0 0 0 0 rgba(242, 101, 34, 0.6);
+    }
+    70% {
+        transform: scale(1);
+        box-shadow: 0 0 0 10px rgba(242, 101, 34, 0);
+    }
+    100% {
+        transform: scale(0.95);
+        box-shadow: 0 0 0 0 rgba(242, 101, 34, 0);
+    }
+}
+
+.animate-radar {
+    animation: radar-pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
+
+@keyframes badge-float-subtle {
+    0%, 100% {
+        transform: translateY(0px);
+    }
+    50% {
+        transform: translateY(-4px);
+    }
+}
+
+.animate-badge-float {
+    animation: badge-float-subtle 3s ease-in-out infinite;
+}
+
+.ready-card-hover {
+    transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.3s cubic-bezier(0.16, 1, 0.3, 1), border-color 0.3s ease;
+}
+
+.ready-card-hover:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 20px 30px -10px rgba(21, 56, 138, 0.12), 0 8px 12px -6px rgba(21, 56, 138, 0.08);
+}
+
 .bg-dot-pattern {
     background-image: radial-gradient(rgba(30, 77, 183, 0.12) 1.2px, transparent 1.2px);
     background-size: 24px 24px;

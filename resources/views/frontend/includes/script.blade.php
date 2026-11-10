@@ -191,6 +191,50 @@ document.addEventListener('DOMContentLoaded', function () {
             });
         });
     });
+
+    // 7. Ready-Made Apps Tab Filter
+    const readyFilterBtns = document.querySelectorAll('.ready-filter-btn');
+    const readyAppCards = document.querySelectorAll('.ready-app-card');
+
+    readyFilterBtns.forEach(btn => {
+        btn.addEventListener('click', function () {
+            const filter = this.dataset.filter;
+            readyFilterBtns.forEach(b => {
+                b.classList.remove('bg-[#15388A]', 'text-white', 'shadow-sm');
+                b.classList.add('bg-slate-100', 'text-slate-700', 'hover:bg-slate-200');
+            });
+            this.classList.add('bg-[#15388A]', 'text-white', 'shadow-sm');
+            this.classList.remove('bg-slate-100', 'text-slate-700', 'hover:bg-slate-200');
+
+            readyAppCards.forEach(card => {
+                if (filter === 'all' || card.dataset.category === filter) {
+                    card.style.display = 'flex';
+                } else {
+                    card.style.display = 'none';
+                }
+            });
+        });
+    });
+
+    // 8. Ready-Made Apps Live Demo & Code Inquire Trigger
+    const readyDemoBtns = document.querySelectorAll('.ready-demo-btn');
+    readyDemoBtns.forEach(btn => {
+        btn.addEventListener('click', function () {
+            const appName = this.dataset.app || 'Ready-Made Application';
+            const contactSection = document.getElementById('contact');
+            if (contactSection) {
+                contactSection.scrollIntoView({ behavior: 'smooth' });
+                const notesField = document.getElementById('form-project-notes');
+                const formServiceInput = document.getElementById('form-service-select');
+                if (formServiceInput) {
+                    formServiceInput.value = 'app';
+                }
+                if (notesField) {
+                    notesField.value = `[Ready-Made App Inquiry: ${appName}] - I am interested in acquiring the turnkey source code and scheduling a live demo. Please provide APK/TestFlight access and customization options.`;
+                }
+            }
+        });
+    });
 });
 </script>
 
